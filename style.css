@@ -1,0 +1,42 @@
+body{
+    background:linear-gradient(#38f2ea 0%, #e1f238 100%);
+    text-align: center;
+    
+    
+    
+    
+    
+}
+h1{
+   font-size: 50px;
+    
+}
+h2{
+    font-size: 60px;
+    font-family: sans-serif;
+    color: crimson;
+}
+p1{
+    font-size: 35px;
+    -
+}
+#img1{
+    height:150px;
+    width: 150px;
+    border-radius: 20;
+    border-width:10px;
+    border-style: dotted;
+    border-spacing: 15px;
+    border-color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
